@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Syahidan Arrizaldy Sidik,
 
-A front end engineer from Indonesia
+I'm a front end engineer from Indonesia
 
 
 
